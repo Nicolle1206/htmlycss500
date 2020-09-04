@@ -1,0 +1,85 @@
+body{
+	background-color:#FFFAD1;
+}
+h1{
+	color:#681997;
+	font-weight:boid;
+	font-family:"Arial Rounded MT Bold";
+	font-size:80px;
+	text-align:center;
+}
+IMG.imgcenter{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	border:none;
+}
+h4{
+	color:#4BD7E2;
+	font-family:"Berlin Sans FB";
+	font-size:40px;
+	text-align:center;
+}
+h2{
+	color:#9343F4;
+	font-family:"Berlin Sans FB";
+	font-size:60px;
+	text-align:LEFT;
+}
+IMG.imgright{
+	display:block;
+	float:right;
+	margin-left:30px;
+	margin-right:0;
+	border:none;
+}
+p{
+	font-family:"Arial Rounded MT Bold";
+	font-size:20px;
+	text-align:justify;
+}
+video{
+	  width:800px;
+	  height:640px;
+	  display:block;
+	  margin-left:auto;
+	  margin-right:auto;
+}
+hr{height:10px;
+    background-color:red;
+	width:90%;
+	border-color:black;
+}
+h5{
+	color:#000430;
+	font-family:"Arial";
+	font-size:20px;
+	text-align:LEFT;
+}
+table{
+	border-collapse: collapse;
+}
+td{
+	border: 5px solid blue;
+	font-family:"Berlin Sans FB";
+	font-size:20px;
+}
+caption{
+	font-family:"Berlin Sans FB";
+	font-size:45px;
+	text-align:"justify";
+}
+th{
+	border: 5px solid blue;
+	color:#D512A5;
+	font-family:"Arial Rounded MT Bold";
+	font-size:30px;
+	text-align:"center";
+}
+tr{
+	border: 5px solid blue;
+	color:black;
+	font-family:"Arial Rounded MT Bold";
+	font-size:30px;
+	text-align:"center";
+}
